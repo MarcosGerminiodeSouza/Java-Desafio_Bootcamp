@@ -3,4 +3,4 @@
 
  ## Desafio DIO
 
-Este projeto é um desafio proposto na plataforma Digital Inovation One
+Este projeto é um desafio proposto na plataforma Digital Innovation One
